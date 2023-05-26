@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML/AI**
 
-- 💬 Ask me about **DSA , C , JAVA and Python**
+- 💬 Ask me about **DSA , C , C++, JAVA and Python**
 
 - 📫 How to reach me **manishkumawat4245@gmail.com**
 
