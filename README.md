@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish kumawat</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on a start-up **SkillZylla**
-
 - 🌱 I’m currently learning **ML/AI**
 
 - 💬 Ask me about **DSA , C , C++, JAVA and Python**
