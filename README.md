@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manish kumawat</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hi, I'm Manish kumawat</h1>
+<h3 align="center">A passionate Power Platform Developer from India</h3>
 
 - 🌱 I’m currently learning **ML/AI**
 
