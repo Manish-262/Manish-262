@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'm Manish kumawat</h1>
-<h3 align="center">Passionate about Automation, Analytics & AI</h3>
+<h3 align="center">Learning, teaching, and growing in Data Analytics</h3>
 
-- Exploring **AI, ML, and Quantum Computing**
-
-- I also create content on **latest technologies, engineering and placements**
-
-- How to reach me **manishkumawat4245@gmail.com**
+I’m a Data Analytics & Power BI enthusiast who believes in building skills with the right mindset.
+Currently, I’m focused on learning, teaching, and growing in the world of data while creating content to simplify complex concepts for others.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
