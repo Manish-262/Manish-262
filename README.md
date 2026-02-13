@@ -1,8 +1,19 @@
 <h1 align="center">Hi, I'm Manish kumawat</h1>
-<h3 align="center">Learning, teaching, and growing in Data Analytics</h3>
+<h3 align="center">Skills • Clarity • Mindset</h3>
 
-I’m a Data Analytics & Power BI enthusiast who believes in building skills with the right mindset.
-Currently, I’m focused on learning, teaching, and growing in the world of data while creating content to simplify complex concepts for others.
+Most engineering students don’t fail because they lack talent.
+They fail because they lack clarity, direction, and the right mindset.
+
+I’m building content to help engineering students grow in an all-round way — not just marks or placements, but skills, thinking ability, confidence, and career clarity.
+
+No fake motivation.
+No unrealistic success stories.
+Just simple explanations, honest advice, and systems that actually work.
+
+I’m documenting my own learning journey and sharing everything I learn — so you don’t have to figure it out alone.
+
+If you’re an engineering student who wants all-round career growth, you’re in the right place.
+Follow along and build the next version of you.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
