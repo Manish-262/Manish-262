@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manish kumawat</h1>
-<!-- <h3 align="center"></h3> -->
+<h3 align="center">Power BI Developer & Educator</h3>
 
-<p> Curious about AI, technology, and intelligent problem-solving. Exploring modern AI tools and data-driven workflows while continuously building skills in analytics, programming, and emerging technologies.
+<p> Building dashboards, solving business problems, and sharing practical learning.
 </p>
 
 <!-- <h3 align="left"></h3>
