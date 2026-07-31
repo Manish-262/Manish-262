@@ -1,15 +1,35 @@
-<h1 align="center">Hi, I'm Manish kumawat</h1>
-<h3 align="center">Power BI Developer & Educator</h3>
+# Hi, I'm Manish Kumawat 
 
-<p> Building dashboards, solving business problems, and sharing practical learning.
-</p>
+### Power BI Developer • Educator • M.Tech CSE Student
 
-<!-- <h3 align="left"></h3>
-<p align="left">
-  
-<!-- <a href="" target="blank">
-  <img align="center" src="" alt="" height="30" width="40" />
-</a>  -->
+Building Power BI projects, creating educational content, and continuously learning Data Analytics & Software Development.
 
-<!-- <a href="https://www.linkedin.com/in/manish-kumawat13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-kumawat13/" height="30" width="40" /></a> -->
-<!-- </p> --> -->
+## 💻 Tech Stack
+
+- Power BI
+- DAX
+- Power Query
+- SQL
+- Excel
+- Java
+- Python
+- C++
+- Git & GitHub
+
+## 📂 Featured Repositories
+
+1. Power BI
+
+2. Java Programming and DSA
+
+3. Student Portfolio Management System
+
+## 📺 Content
+
+Sharing practical tutorials on Power BI, Data Analytics, and Programming.
+
+## 🌐 Connect
+
+LinkedIn: www.linkedin.com/in/manish-kumawat13
+
+YouTube: https://www.youtube.com/@manishkumawat80
