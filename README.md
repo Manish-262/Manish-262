@@ -18,11 +18,11 @@ Building Power BI projects, creating educational content, and continuously learn
 
 ## 📂 Featured Repositories
 
-1. Power BI
+1. Power BI: https://github.com/Manish-262/power-bi
 
-2. Java Programming and DSA
+2. Java Programming and DSA: https://github.com/Manish-262/java-programming-and-dsa
 
-3. Student Portfolio Management System
+3. Student Portfolio Management System: https://github.com/Manish-262/student-portfolio-management-system
 
 ## 📺 Content
 
